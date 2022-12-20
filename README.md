@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunji.I'm in Taiyuan,Shanxi now.
 - 👀 I’m interested in java\.Net\vue.
-- 🌱 I’m currently learning vben\springclou.
+- 🌱 I’m currently learning vben\springcloud.
 - 💞️ I’m looking to collaborate on architecture design.
 - 📫 How to reach me ... guo194194@163.com
 
